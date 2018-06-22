@@ -1,5 +1,4 @@
 # sample 
-Edit
 nitikorn
 
 sample3
