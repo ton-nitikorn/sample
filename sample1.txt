@@ -2,5 +2,5 @@ init sample1
 
 server changed
 
-xxx
+xxx/yyy
 change by dev branch
