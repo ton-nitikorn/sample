@@ -1,6 +1,6 @@
 # sample 
 branch mater
-nitikorn
+nitikorn3
 
 sample3
 sample1
